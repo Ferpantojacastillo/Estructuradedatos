@@ -6,8 +6,11 @@ Este repositorio será para la materia de Estructura y Organizacion de Datos.
 1.Fundamentos de estructura de datos.
 
 1.1.Definicion
+
 1.2.Clasificacion 
+
 1.3.Estructuras lineales y no lineales
+
 1.4.Estructuras dinamicas y estaticas
 
 2.Estructuras lineales.
