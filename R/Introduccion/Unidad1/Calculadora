@@ -1,0 +1,45 @@
+> # Función para sumar
+> sumar <- function(a, b) {
++   return(a + b)
++ }
+> 
+> # Función para restar
+> restar <- function(a, b) {
++   return(a - b)
++ }
+> 
+> # Función para multiplicar
+> multiplicar <- function(a, b) {
++   return(a * b)
++ }
+> 
+> # Función para dividir
+> dividir <- function(a, b) {
++   if (b != 0) {
++     return(a / b)
++   } else {
++     return("No se puede dividir por cero")
++   }
++ }
+> 
+> # Ejemplos de uso
+> resultado_suma <- sumar(5, 3)
+> resultado_resta <- restar(10, 4)
+> resultado_multiplicacion <- multiplicar(6, 2)
+> resultado_division <- dividir(8, 0)
+> 
+> # Imprimir resultados
+> cat("Suma:", resultado_suma, "\n")
+Suma: 8 
+> cat("Resta:", resultado_resta, "\n")
+Resta: 6 
+> cat("Multiplicación:", resultado_multiplicacion, "\n")
+Multiplicación: 12 
+> cat("División:", resultado_division
++ 4*10
+Error: unexpected numeric constant in:
+"cat("División:", resultado_division
+4"
+> 5+3
+[1] 8
+> 
