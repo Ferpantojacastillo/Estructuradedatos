@@ -7,8 +7,12 @@ Este repositorio será para la materia de Estructura y Organizacion de Datos.
 
 1.1.Definicion
 
+<<<<<<< HEAD
 
 1.2.Clasificacion
+=======
+1.2.Clasificacion 
+>>>>>>> 9b432cb99b956c3d968819542f13bd1e98c55d51
 
 1.3.Estructuras lineales y no lineales
 
@@ -38,4 +42,8 @@ Este repositorio será para la materia de Estructura y Organizacion de Datos.
 
 4.2.Metodos de busqueda
 
+<<<<<<< HEAD
 4.3.Recuperacion de datos 
+=======
+4.3.Recuperacion de datos 
+>>>>>>> 9b432cb99b956c3d968819542f13bd1e98c55d51
