@@ -49,6 +49,7 @@ Este repositorio será para la materia de Estructura y Organizacion de Datos.
 >>>>>>> 9b432cb99b956c3d968819542f13bd1e98c55d51
 
 Actividad 1.1 Conceptos de la unidad
+
 Algoritmo:
 un algoritmo es cualquier cosa que funcione paso a paso, donde cada paso se pueda describir sin ambigüedad y sin hacer referencia a una computadora en particular, y además tiene un límite fijo en cuanto a la cantidad de datos que se pueden leer/escribir en un solo paso.
 
