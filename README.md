@@ -76,6 +76,18 @@ La ciencia de datos es el estudio de datos con el fin de extraer información si
 Bases de datos:
 Se llama base de datos, o también banco de datos, a un conjunto de información perteneciente a un mismo contexto, ordenada de modo sistemático para su posterior recuperación, análisis y/o transmisión. Existen actualmente muchas formas de bases de datos, que van desde una biblioteca hasta los vastos conjuntos de datos de usuarios de una empresa de telecomunicaciones.
 
+Estructura de datos lineales:
+Son aquellas en las que los elementos ocupan lugares sucesivos en la estructura y cada uno de ellos tiene un unico sucesor y un unico predesesor.
+
+Estructuras de datos No-lineales
+Son aquellas en las que cada elemento puede estar enlazado a cualquier otro componente.
+
+Estructura de datos dinamica:
+Se considera dinamica si para su creacion se van generando o eliminando elementos al momento de ejecucion.
+
+Estructura de datos estaticos:
+Son aquellas en la que el tamaño en la memoria se define antes de que el programa se ejecute y no pueda modificarse mientras se ejecute el programa. 
+
 
 
 
