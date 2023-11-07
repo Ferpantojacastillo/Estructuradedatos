@@ -119,6 +119,31 @@ Lenguaje python:Se trata de un lenguaje de programación multiparadigma, ya que 
 
 lenjuaje JavaScript:es un lenguaje de programación o de secuencias de comandos que te permite implementar funciones complejas en páginas web, cada vez que una página web hace algo más que sentarse allí y mostrar información estática para que la veas,
 
+Unidad3. Estructuras no lineal
+
+
+Recursividad:Es un recurso poderoso para expresar soluciones simples y naturales a ciertos problemas.Un objeto recursivo es aquel que aparece en la definición de sí mismo, así como el que se llama a sí mismo.
+
+
+Arboles:una estructura de datos formada por varios objetos
+colocados en una forma semejante a un árbol biológico, es decir, los objetos
+parece que están sobre las ramas de un árbol, recordemos un árbol genealógico,
+uno de los objetos es la raíz, y los demás están colocados en las ramas.
+
+
+Grafos:conjunto de puntos y un conjunto de líneas, cada una de las cuales une un punto con otro.
+
+
+UNIDAD4.Metodos de ordenamiento y busqueda
+
+
+Metodos de ordenamiento:operación de arreglar los registros de una tabla en algún orden secuencial de acuerdo a un criterio de ordenamiento.
+
+Metodos de busqueda: búsqueda secuencial o lineal y búsqueda binaria. 
+
+Recuperacion de datos: Es un medio por el que los usuarios de un sistema o servicio de información pueden encontrar los documentos, registros, imágenes gráficas, o registros de sonido que satisfagan sus necesidades o intereses.
+
+
 
 
 
